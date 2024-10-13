@@ -1,4 +1,1 @@
-# Yusha
-
-visit: https://faruq05.github.io/Yusha/
-# Yusha
+# https://zellyo-digital0.github.io/Yusha
